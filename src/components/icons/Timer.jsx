@@ -1,4 +1,4 @@
-import React, { SVGProps } from "react";
+import React from "react";
 
 function Timer({ height = "10px", width = "10px", color = "black", ...props }) {
   return (
